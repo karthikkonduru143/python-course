@@ -1,3 +1,4 @@
+#string slicing
 s='Python Programming'
 print(s[3:10:])#satarting index "3",ending is index"10".
 print(s[3:10:2])##satarting index "3",ending is index"10" ang skip the value and print next index.
